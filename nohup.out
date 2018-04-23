@@ -1,0 +1,13 @@
+ Project properties are loaded. Log file generated for this run = executionLogs/log_infoLevel_report_1518139691167.log
+Exception in thread "main" java.lang.NullPointerException
+	at bootstrap.Driver.getProjectProperties(Driver.java:55)
+	at bootstrap.Driver.main(Driver.java:27)
+ Project properties are loaded. Log file generated for this run = executionLogs/log_infoLevel_report_1518139803214.log
+2018-04-22 21:58:49,569 [main] INFO  b.Driver - uUId = 2944750c-fec3-4bb2-b37e-03ea1ec1f3f6 ==============================================================
+2018-04-22 21:58:49,570 [main] INFO  b.Driver - uUId = 2944750c-fec3-4bb2-b37e-03ea1ec1f3f6 Welcome to the Traffic Simulator.
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 1
+	at bootstrap.Driver.main(Driver.java:24)
+2018-04-22 21:59:23,526 [main] INFO  b.Driver - uUId = 214fc4e6-ddce-4d22-9e0e-98eb97a96c34 ==============================================================
+2018-04-22 21:59:23,527 [main] INFO  b.Driver - uUId = 214fc4e6-ddce-4d22-9e0e-98eb97a96c34 Welcome to the Traffic Simulator.
+2018-04-22 21:59:23,527 [main] INFO  b.Driver - uUId = 214fc4e6-ddce-4d22-9e0e-98eb97a96c34 Properties file specified at location = src/main/resources/project.properties
+2018-04-22 21:59:23,527 [main] INFO  b.Driver - uUId = 214fc4e6-ddce-4d22-9e0e-98eb97a96c34 ==============================================================
